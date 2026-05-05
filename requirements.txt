@@ -3,3 +3,4 @@ scikit-learn
 nltk
 gTTS
 SpeechRecognition
+audio-recorder-streamlit
